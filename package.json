@@ -1,5 +1,5 @@
 {
-  "name": "ngx-matomo",
+  "name": "@jonhamm/ngx-matomo",
   "version": "0.1.6",
   "author": "Arnaud Mouronval <arnaud.mouronval@gmail.com>",
   "description": "Matomo (aka. Piwik) web analytics for Angular 12+ applications.",
@@ -14,7 +14,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arnaud73/ngx-matomo.git"
+    "url": "git+https://github.com/Arnaud73/ngx-matomo.git"
   },
   "bugs": {
     "url": "https://github.com/Arnaud73/ngx-matomo/issues"
